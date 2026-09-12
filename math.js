@@ -1,5 +1,7 @@
 // The functions our pipeline will test. Keep them simple.
 // dummy changes
+// dummy changes_2
+
 
 function add(a, b) {
   return a + b;
